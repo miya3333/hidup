@@ -1,5 +1,5 @@
 :root {
-  --primary: #cc8844;
+  --primary: #4496cc;
   --bg: #010101;
 }
 
@@ -29,7 +29,7 @@ body {
   align-items: center;
   padding: 1.4rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
-  border-bottom: 1px solid #6d4823;
+  border-bottom: 1px solid #23456d;
   position: fixed;
   top: 0;
   left: 0;
